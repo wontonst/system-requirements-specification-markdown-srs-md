@@ -35,9 +35,10 @@ Revision History
 # 1 Introduction #
 ## 1.1 Purpose ##
 ## 1.2 Document Conventions ##
-## 1.3 Intended Audience and Reading Suggestions ##
-## 1.4 Product Scope ##
-## 1.5 References ##
+## 1.3 Glossary
+## 1.4 Intended Audience and Reading Suggestions ##
+## 1.5 Product Scope ##
+## 1.6 References ##
 
 # 2 Overall Description #
 ## 2.1 Product Perspective ##
@@ -65,9 +66,4 @@ Revision History
 
 # 6 Other Requirements #
 
-# Appendix A: Glossary #
-
-# Appendix B: Analysis Models #
-
-# Appendix C: To Be Determined List
-
+<!--appendix-->
